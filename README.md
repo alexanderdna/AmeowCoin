@@ -71,7 +71,8 @@ There should be a file named `peers.txt` in the same directory of the executable
 Sample content:
 
 ```
-99.99.99.99:1234
+100.100.100.100:6789
+200.200.200.200:6789
 ```
 
 ### ameow-cli
