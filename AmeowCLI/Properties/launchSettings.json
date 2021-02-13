@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AmeowCLI": {
+      "commandName": "Project",
+      "commandLineArgs": "--log console"
+    }
+  }
+}

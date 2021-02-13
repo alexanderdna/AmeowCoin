@@ -1,5 +1,7 @@
 # AmeowCoin [AMEOW]
 
+![AmeowCoin](Images/Logo.png)
+
 Ameow is a **toy cryptocurrency**. It was made as a hobby project and
 named by its author's girlfriend.
 
